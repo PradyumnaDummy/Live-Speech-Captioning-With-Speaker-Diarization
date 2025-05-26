@@ -23,7 +23,11 @@ This application captures live microphone input, transcribes speech using state-
 
 ## 📸 Preview
 
-> *(Include a gif or screenshot of the app here)*
+
+> ![ezgif-4-6a5ec28529](https://github.com/user-attachments/assets/47cd5d90-37b8-401e-8c35-1afb3739fa14)
+> ![image](https://github.com/user-attachments/assets/40553152-616f-49b3-8541-2b3e8774f4ff)
+
+
 
 ---
 
